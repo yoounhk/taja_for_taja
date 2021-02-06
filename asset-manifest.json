@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taja_for_taja/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/taja_for_taja/static/js/main.d7ce6655.chunk.js",
-    "main.js.map": "/taja_for_taja/static/js/main.d7ce6655.chunk.js.map",
+    "main.js": "/taja_for_taja/static/js/main.3cbb68d2.chunk.js",
+    "main.js.map": "/taja_for_taja/static/js/main.3cbb68d2.chunk.js.map",
     "runtime-main.js": "/taja_for_taja/static/js/runtime-main.66230fe3.js",
     "runtime-main.js.map": "/taja_for_taja/static/js/runtime-main.66230fe3.js.map",
     "static/js/2.072f24eb.chunk.js": "/taja_for_taja/static/js/2.072f24eb.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.66230fe3.js",
     "static/js/2.072f24eb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d7ce6655.chunk.js"
+    "static/js/main.3cbb68d2.chunk.js"
   ]
 }
